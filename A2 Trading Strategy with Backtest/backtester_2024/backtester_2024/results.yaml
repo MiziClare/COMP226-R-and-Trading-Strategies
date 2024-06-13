@@ -1,0 +1,24 @@
+username: sgxzh104
+periods:
+  startIn: 1.0
+  endIn: 1001.0
+  startOut: 1002.0
+  endOut: 2000.0
+ins:
+  short: 5.0
+  medium: 50.0
+  long: 200.0
+  series:
+  - - 1
+    - 2
+  profit: -1022.5
+  rank_on_out: 2.5
+out:
+  short: 5.0
+  medium: 50.0
+  long: 200.0
+  series:
+  - - 1
+    - 2
+  profit: -757.5
+  rank_on_in: 2.5

@@ -1,0 +1,12 @@
+# 创建一个包含随机数的向量
+numbers <- c(5, 2, 9, 3, 8)
+
+# 使用order()获取排序的索引
+ordered_indexes <- order(numbers)
+ordered_indexes
+
+# 使用排序的索引来重排向量
+sorted_numbers <- numbers[ordered_indexes]
+
+# 打印结果
+print(sorted_numbers)

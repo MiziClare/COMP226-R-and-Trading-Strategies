@@ -1,0 +1,26 @@
+username: x1yyy
+periods:
+  startIn: 1
+  endIn: 819
+  startOut: 820
+  endOut: 2000
+ins:
+  short: 5.0
+  medium: 50.0
+  long: 300.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 1
+  profit: 6028.25
+  rank_on_out: 4.0
+out:
+  short: 10.0
+  medium: 50.0
+  long: 300.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 0
+  profit: 3085.59
+  rank_on_in: 21.0
